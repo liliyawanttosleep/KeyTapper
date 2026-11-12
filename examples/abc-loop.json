@@ -1,0 +1,21 @@
+{
+  "app": "KeyTapper",
+  "version": 1,
+  "name": "ABC 循环",
+  "preset": {
+    "steps": [
+      {"mods": [], "key": 65, "times": 1, "interval": null, "unit": "毫秒"},
+      {"mods": [], "key": 66, "times": 1, "interval": null, "unit": "毫秒"},
+      {"mods": [], "key": 67, "times": 1, "interval": null, "unit": "毫秒"}
+    ],
+    "interval": 5,
+    "interval_unit": "秒",
+    "jitter_ms": 0,
+    "hold_ms": 50,
+    "delay_s": 0,
+    "stop_mode": "forever",
+    "duration": 60,
+    "duration_unit": "秒",
+    "rounds": 10
+  }
+}

@@ -1,0 +1,18 @@
+# 个人设置与运行时文件
+config.json
+error.log
+
+# 放在根目录的个人导出方案（示例方案放在 examples/ 里）
+/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
