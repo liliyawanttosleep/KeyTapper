@@ -5,7 +5,7 @@ Guidance for AI agents working on this repository. 给在本仓库工作的 AI a
 ## Read first / 先读这里
 
 - Development log, current features, architecture, pitfalls and roadmap:
-  [docs/DEVLOG.md](docs/DEVLOG.md) (English) · [docs/DEVLOG.zh-CN.md](docs/DEVLOG.zh-CN.md) (中文)
+  [docs/DEVLOG.en.md](docs/DEVLOG.en.md) (English) · [docs/DEVLOG.zh-CN.md](docs/DEVLOG.zh-CN.md) (中文)
 - User-facing documentation: [README.md](README.md)
 
 ## Essentials / 要点

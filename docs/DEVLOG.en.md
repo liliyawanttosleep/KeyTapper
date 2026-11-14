@@ -7,7 +7,7 @@
 > been hit, and what could be built next. When you change the code, update this file and the
 > Chinese version together.
 
-Last updated: 2026-11-12 · Current version: 0.3
+Last updated: 2026-11-13 · Current version: 0.3
 
 ## 1. What this is
 
@@ -61,6 +61,11 @@ third-party dependency. The UI is in Chinese.
 ### v0.3 release (2026-11-12)
 - Packaged as a GitHub repository: README, MIT licence, requirements, example preset, shortcut script.
 - Added `tests/selftest.py` and this log.
+
+### Housekeeping (2026-11-13)
+- The English log was renamed from `docs/DEVLOG.md` to `docs/DEVLOG.en.md` to match the naming used by
+  the owner's other projects (GeekCleaner, MediaShelf); links in README and AGENTS.md were updated. No code changes.
+- The project was listed on the owner's personal site (Projects page, `liliyawanttosleep.github.io/portfolio/`) by another session.
 
 ## 4. Code layout
 

@@ -130,13 +130,13 @@ KeyTapper/
 ├── tests/selftest.py     # 自检脚本
 ├── tools/make_icon.py    # 生成图标的脚本（需要 numpy）
 ├── AGENTS.md             # 给 AI agent 的说明
-└── docs/DEVLOG*.md       # 开发日志（中 / 英）
+└── docs/DEVLOG.*.md       # 开发日志（中 / 英）
 ```
 
 ## 开发
 
 开发历程、当前功能、代码结构、已知限制和后续计划都写在开发日志里：
-[中文](docs/DEVLOG.zh-CN.md) · [English](docs/DEVLOG.md)。
+[中文](docs/DEVLOG.zh-CN.md) · [English](docs/DEVLOG.en.md)。
 
 改动代码后运行自检（会发送 F13–F15 按键并短暂弹出窗口）：
 

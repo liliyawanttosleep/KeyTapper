@@ -1,11 +1,11 @@
 # KeyTapper 开发日志与现状
 
-> English version: [DEVLOG.md](DEVLOG.md)
+> English version: [DEVLOG.md](DEVLOG.en.md)
 >
 > 这份文档写给接手这个项目的人或 AI agent：读完应该知道项目做到了哪一步、代码怎么组织、
 > 哪些坑已经踩过、接下来可以做什么。改动代码后请同步更新本文件和英文版。
 
-最后更新：2026-11-12 · 当前版本：0.3
+最后更新：2026-11-13 · 当前版本：0.3
 
 ## 1. 项目是什么
 
@@ -54,6 +54,11 @@ Windows 上的键盘连点器。单文件 Python 程序（`keytapper.py`），�
 ### v0.3 发布（2026-11-12）
 - 整理为 GitHub 仓库：README、MIT 许可证、依赖清单、示例方案、快捷方式脚本。
 - 加入 `tests/selftest.py` 和本开发日志。
+
+### 规范整理（2026-11-13）
+- 英文日志由 `docs/DEVLOG.md` 改名为 `docs/DEVLOG.en.md`，与本机其他项目（GeekCleaner、MediaShelf）的命名统一；
+  README、AGENTS.md 里的链接同步更新。无代码改动。
+- 项目已由另一个会话登记到个人网站的 Projects 页（`liliyawanttosleep.github.io/portfolio/`）。
 
 ## 4. 代码结构
 
